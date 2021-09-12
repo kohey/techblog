@@ -47,6 +47,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   name = "Kohey"
   github = "kohey"
+  twitter = "KKohey4"
 
 [[menu.main]]
     name = "Blog"
