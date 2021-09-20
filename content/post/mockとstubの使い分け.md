@@ -7,7 +7,7 @@ tags: ["node"]
 
 こんにちは、[かわそん](https://twitter.com/KKohey4)です。
 
-sinon.jsを使っていて、mockと stub の区別がつかなかったので、個人的基準を共有します。
+sinon.jsを使っていて、mockと stub の区別がつかなかったので、個人的基準を共有します
 
 <!--more-->
 ## 結論
