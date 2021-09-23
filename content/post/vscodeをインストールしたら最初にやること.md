@@ -6,6 +6,7 @@ draft: false
 
 VSCodeをインストールしたら最初に入れておくべきプラグインです。  
 これがないと仕事にならない
+<!--more-->
 
 ## Japanese Language Pack
 日本人なので
