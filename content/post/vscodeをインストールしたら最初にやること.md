@@ -34,6 +34,9 @@ UMLの図を書くため
 ## Add jsdoc comments
 jsdocのコメント表記はなるべく自動で生成しておきたい
 
+## Code Runner
+色んなファイルをctl+opt+Nで実行したいから
+
 ## その他の設定
 ### コピペするならインデントを維持したい
 `setttings.json`に下記を追記する
