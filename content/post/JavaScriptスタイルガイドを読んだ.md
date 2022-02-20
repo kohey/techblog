@@ -1,10 +1,13 @@
 ---
 title: "JavaScriptスタイルガイドを読んだ"
 date: 2022-02-20T17:32:21+09:00
-draft: true
+draft: false
+tags: ["JS"]
 ---
 
 Airbnbの[JavaScriptスタイルガイド](https://mitsuruog.github.io/javascript-style-guide/)を読んで気をつけたいと思った点をいくつか。
+
+Object / String / Prop
 
 <!--more-->
 ## Object
